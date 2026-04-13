@@ -2,63 +2,11 @@
 <h3 align="center">Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/ruthwin09">
-    <img src="https://komarev.com/ghpvc/?username=ruthwin09&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering Student  
-- 💡 Interested in **Artificial Intelligence, Web Development, and Computer Graphics**  
-- 🌱 Currently learning **Machine Learning, Next.js, and Advanced Python**  
-- 🛠️ Focused on building practical, real-world projects  
-
----
-
-## 🎯 Featured Work
-
-- 🔹 **StudyGen AI** – AI-powered study assistant  
-- 🔹 **Gym Management System** – Full-stack web application  
-- 🔹 **Banking Database System** – DBMS project  
-- 🔹 **Vector Field Visualization** – MATLAB-based graphics project  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-Python, Java, JavaScript  
-
-**Web Technologies:**  
-HTML, CSS, React, Next.js  
-
-**Database:**  
-MySQL  
-
-**Tools & Platforms:**  
-Git, GitHub, VS Code  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruthwin09&show_icons=true&theme=default" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Learner;Building+Real+World+Projects&center=true&width=500&height=40">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthwin09&theme=default" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwin09&layout=compact&theme=default" />
+  <img src="https://komarev.com/ghpvc/?username=ruthwin09&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -71,16 +19,69 @@ Git, GitHub, VS Code
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header"/>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💡 Passionate about AI, Web Development & Graphics  
+- 🌱 Currently learning Machine Learning, Next.js  
+- 🛠️ Building real-world impactful projects  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true"/>
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java, JavaScript  
+**Web:** HTML, CSS, React, Next.js  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthwin09&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthwin09" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true"/>
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwin09&layout=compact" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+## 🚀 Featured Projects
+
+- 🔹 StudyGen AI  
+- 🔹 Gym Management System  
+- 🔹 Banking Database System  
+- 🔹 Vector Field Visualization  
+
+---
+
 ## 🌐 Connect
 
 - GitHub: https://github.com/ruthwin09  
 
 ---
 
-## 📌 Note
-
-This profile highlights my learning journey, projects, and technical growth. I am actively working on improving my skills and contributing to meaningful projects.
-
----
-
-⭐ *Focused on building, learning, and growing as a developer.*
+<p align="center">
+  ⭐ <b>Focused on building, learning, and growing.</b>
+</p>
