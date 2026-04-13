@@ -92,7 +92,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated Icons)
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&color=FFDD00&center=true&vCenter=true&width=500&lines=Languages;Web+Development;Databases;Tools+%26+Platforms" />
