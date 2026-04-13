@@ -1,13 +1,69 @@
-<h1 align="center">⚡ Ruthwin Bharani ⚡</h1>
-<h3 align="center">🚀 CSE Student | 💻 Full Stack Developer | 🤖 AI Explorer</h3>
+<h1 align="center">Ruthwin Bharani</h1>
+<h3 align="center">Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Things;AI+%26+ML+Enthusiast;Future+Tech+Creator;Always+Learning+Something+New&center=true&width=550&height=45">
+  <a href="https://github.com/ruthwin09">
+    <img src="https://komarev.com/ghpvc/?username=ruthwin09&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🎮 My Digital World
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💡 Interested in **Artificial Intelligence, Web Development, and Computer Graphics**  
+- 🌱 Currently learning **Machine Learning, Next.js, and Advanced Python**  
+- 🛠️ Focused on building practical, real-world projects  
+
+---
+
+## 🎯 Featured Work
+
+- 🔹 **StudyGen AI** – AI-powered study assistant  
+- 🔹 **Gym Management System** – Full-stack web application  
+- 🔹 **Banking Database System** – DBMS project  
+- 🔹 **Vector Field Visualization** – MATLAB-based graphics project  
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Python, Java, JavaScript  
+
+**Web Technologies:**  
+HTML, CSS, React, Next.js  
+
+**Database:**  
+MySQL  
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthwin09&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthwin09&theme=default" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwin09&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🎮 Project Showcase
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruthwin09/ruthwin09/main/ruthwin_ultra.gif" width="100%" />
@@ -15,84 +71,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🌐 Connect
 
-```yaml
-name: Ruthwin Bharani
-role: Developer / Student
-focus: AI • Web Dev • Graphics
-learning: Machine Learning, Next.js
-passion: Building + Creativity + Innovation
-```
+- GitHub: https://github.com/ruthwin09  
 
 ---
 
-## ⚙️ Tech Arsenal
+## 📌 Note
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,mysql,git,github,vscode" />
-</p>
+This profile highlights my learning journey, projects, and technical growth. I am actively working on improving my skills and contributing to meaningful projects.
 
 ---
 
-## 📊 GitHub Power Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruthwin09&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthwin09&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Code Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwin09&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-✨ StudyGen AI — AI-powered learning assistant
-🏋️ Gym Management System — Full-stack app
-🏦 Banking Database System — DBMS design
-📊 Vector Field Visualization — MATLAB graphics
-
----
-
-## 🌐 Connect Zone
-
-<p align="center">
-  <a href="https://github.com/ruthwin09">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruthwin09&color=blue&style=for-the-badge" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruthwin09&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">⚡ <b>Code. Build. Dominate.</b> ⚡</p>
+⭐ *Focused on building, learning, and growing as a developer.*
