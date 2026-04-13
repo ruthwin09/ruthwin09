@@ -10,7 +10,7 @@
 ## 🎮 My Digital World
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruthwin09/ruthwin09/main/ruthwin_ultra.gif" width="100%" />
+  <img src="ruthwin_ultra.gif" width="100%" />
 </p>
 
 ---
