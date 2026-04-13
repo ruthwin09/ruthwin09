@@ -36,7 +36,7 @@
 
 ---
 
-## 🎮 Project Showcase (Animated)
+## 🎮 Project Showcase 
 
 <p align="center">
   <!-- Existing GIF -->
