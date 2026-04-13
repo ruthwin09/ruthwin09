@@ -7,17 +7,23 @@
 
 ---
 
-## 🚀 About Me
+## 🎮 My Setup (Live)
 
-* 🎓 Computer Science Engineering Student
-* 💻 Passionate about AI, Web Development & Computer Graphics
-* 🌱 Currently learning: Machine Learning, Next.js, Advanced Python
-* 🛠️ Love building real-world projects and experimenting with new tech
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruthwin09/ruthwin09/main/ruthwin_ultra.gif" width="100%" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Computer Science Engineering Student  
+- 💻 Passionate about AI, Web Development & Computer Graphics  
+- 🌱 Currently learning: Machine Learning, Next.js, Advanced Python  
+- 🛠️ Love building real-world projects  
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,mysql,git,github" />
 </p>
@@ -42,16 +48,14 @@
 ---
 
 ## 🚀 Projects
-
-* 🔗 StudyGen AI (AI-powered study assistant)
-* 🔗 Gym Management System (Full-stack web app)
-* 🔗 Banking Database System (DBMS project)
-* 🔗 Vector Field Visualization (MATLAB / Graphics)
+- 🔗 StudyGen AI  
+- 🔗 Gym Management System  
+- 🔗 Banking Database System  
+- 🔗 Vector Field Visualization  
 
 ---
 
 ## 🌐 Connect with Me
-
 <p>
   <a href="https://github.com/ruthwin09">GitHub</a>
 </p>
